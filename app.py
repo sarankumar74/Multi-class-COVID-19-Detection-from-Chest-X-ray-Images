@@ -6,7 +6,7 @@ from PIL import Image
 import math
 
 
-CLASS_NAMES = ['COVID', 'Normal', 'Viral'] 
+CLASS_NAMES = ['COVID', 'Normal', 'Viral Pneumonia'] 
 SOFTMAX_THRESHOLD = 0.85  
 ENTROPY_THRESHOLD = 1.0  
 
